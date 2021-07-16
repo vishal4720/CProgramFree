@@ -1,0 +1,245 @@
+<resources>
+    <string name="app_name">C Programming</string>
+    <string name="open">open</string>
+    <string name="close">close</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="c_programs">C Programs</string>
+    <string name="title_activity_intro">FullscreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+
+    <string-array name="pattern_programs">
+        <item>Pattern 1</item>
+        <item>Pattern 2</item>
+        <item>Pattern 3</item>
+        <item>Pattern 4</item>
+        <item>Pattern 5</item>
+        <item>Pattern 6</item>
+        <item>Pattern 7</item>
+        <item>Pattern 8</item>
+        <item>Pattern 9</item>
+        <item>Pattern 10</item>
+        <item>Pattern 11</item>
+        <item>Pattern 12</item>
+        <item>Pattern 13</item>
+        <item>Pattern 14</item>
+        <item>Pattern 15</item>
+        <item>Pattern 16</item>
+        <item>Pattern 17</item>
+        <item>Pattern 18</item>
+        <item>Pattern 19</item>
+        <item>Pattern 20</item>
+        <item>Pattern 21</item>
+        <item>Pattern 22</item>
+        <item>Pattern 23</item>
+        <item>Pattern 24</item>
+        <item>Pattern 25</item>
+        <item>Pattern 26</item>
+        <item>Pattern 27</item>
+        <item>Pattern 28</item>
+        <item>Pattern 29</item>
+        <item>Pattern 30</item>
+        <item>Pattern 31</item>
+        <item>Pattern 32</item>
+        <item>Pattern 33</item>
+        <item>Pattern 34</item>
+        <item>Pattern 35</item>
+        <item>Pattern 36</item>
+        <item>Pattern 37</item>
+        <item>Pattern 38</item>
+        <item>Pattern 39</item>
+        <item>Pattern 40</item>
+        <item>Pattern 41</item>
+        <item>Pattern 42</item>
+        <item>Pattern 43</item>
+        <item>Pattern 44</item>
+        <item>Pattern 45</item>
+        <item>Pattern 46</item>
+        <item>Pattern 47</item>
+        <item>Pattern 48</item>
+        <item>Pattern 49</item>
+        <item>Pattern 50</item>
+    </string-array>
+
+    <string-array name="other_programs">
+        <item>Number is Even or Odd</item>
+        <item>Factorial</item>
+        <item>Factorial (using function)</item>
+        <item>Prime Number (Logic 1)</item>
+        <item>Prime Number (Logic 2)</item>
+        <item>Largest Among given Digits</item>
+        <item>Swap Two Numbers</item>
+        <item>Swap Without using 3rd Variable</item>
+        <item>Fibonacci Series</item>
+        <item>Palindrome</item>
+        <item>Pascal Triangle</item>
+        <item>Leap Year</item>
+        <item>Perfect Number</item>
+        <item>Armstrong Number</item>
+        <item>Strong Number</item>
+        <item>Neon Number</item>
+        <item>Automorphic Number</item>
+        <item>Spy Number</item>
+        <item>Happy NUmber</item>
+        <item>Sunny Number</item>
+        <item>Facinating Number</item>
+        <item>Disarium Number</item>
+        <item>Pronic Number</item>
+        <item>Trimorphic Number</item>
+        <item>Evil-Odious Number</item>
+        <item>Factorial of each Number (1-n)</item>
+        <item>All prime numbers between 1-n</item>
+        <item>All automorphic numbers between 1 to n</item>
+        <item>All spy numbers between 1 to n</item>
+        <item>All happy numbers between 1 to n</item>
+        <item>All sunny numbers between 1 to n</item>
+        <item>All fascinating numbers between 1 to n</item>
+        <item>All disarium numbers between 1 to n</item>
+        <item>All pronic numbers between 1 to n</item>
+        <item>All trimorphic numbers between 1 to n</item>
+        <item>All Evil numbers between 1 to n</item>
+        <item>Floyd Triangle</item>
+        <item>Reverse Number</item>
+        <item>Sum of Digit</item>
+        <item>Power of Given Number</item>
+        <item>Count the Digit in Number</item>
+        <item>Random Number generator</item>
+        <item>Enumeration</item>
+        <item>Celcius to Fahrenheit</item>
+        <item>Fahrenheit to Celcius</item>
+        <item>Min Max in an array</item>
+        <item>Anagram</item>
+        <item>Super Digit</item>
+        <item>LCM</item>
+        <item>GCD</item>
+        <item>HCF</item>
+        <item>Speed Calculation</item>
+        <item>Interest Calculation</item>
+        <item>Ohm\'s Law (I=V/R)</item>
+        <item>Day at Date</item>
+        <item>Circumference of Circle</item>
+        <item>Area of Circle</item>
+        <item>Area of Triangle</item>
+        <item>Area of Equilateral Triangle</item>
+        <item>Area of Rectangle</item>
+        <item>Area of Square</item>
+        <item>Area of Rhombus</item>
+        <item>Area of Pentagon</item>
+        <item>Area of Hexagon</item>
+        <item>Area of Heptagon</item>
+        <item>Area of Octagon</item>
+        <item>Area of Trapezoid</item>
+        <item>Volume of Sphere</item>
+        <item>Volume of Hemisphere</item>
+        <item>Volume of Cone</item>
+        <item>Volume of Cuboid</item>
+        <item>Hello World</item>
+        <item>if-else (Example 1)</item>
+        <item>if-else (Example 2)</item>
+        <item>if-else (Example 3)</item>
+        <item>if-else with OR operator (Example 4)</item>
+        <item>if-else with AND operator(age example)</item>
+        <item>if-else-if (Example 1)</item>
+        <item>if-else-if (Example 2)</item>
+        <item>switch case (Example 1)</item>
+        <item>switch case (Example 2)</item>
+        <item>goto (Example 1)</item>
+        <item>goto (Example 2)</item>
+        <item>goto (Example 3)</item>
+        <item>goto (Example 4)</item>
+        <item>for loop</item>
+        <item>for loop (print even no)</item>
+        <item>for loop (print table)</item>
+        <item>while loop</item>
+        <item>while loop (print no 1-n)</item>
+        <item>while loop (square of no)</item>
+        <item>do-while loop</item>
+        <item>do-while loop with switch</item>
+        <item>break and continue</item>
+        <item>Command line argument</item>
+        <item>Binary to Decimal</item>
+        <item>Binary to Hexadecimal</item>
+        <item>Binary to Octal</item>
+        <item>Decimal to Binary</item>
+        <item>Decimal to Hexadecimal</item>
+        <item>Decimal to Octal</item>
+        <item>Hexadecimal to Binary</item>
+        <item>Hexadecimal to Decimal</item>
+        <item>Hexadecimal to Octal</item>
+        <item>Octal to Binary</item>
+        <item>Octal to Decimal</item>
+        <item>Octal to Hexadecimal</item>
+    </string-array>
+
+    <string-array name="study_stuff">
+        <item>Programming Language</item>
+        <item>POP (Procedural-Oriented Programming Language)</item>
+        <item>OOP (Object-Oriented Programming Language)</item>
+        <item>Source Code</item>
+        <item>Executable Code</item>
+        <item>Compiler</item>
+        <item>Header File</item>
+        <item>Tokens</item>
+        <item>Constants</item>
+        <item>Variables</item>
+        <item>Identifiers</item>
+        <item>Datatype</item>
+        <item>Keywords</item>
+        <item>Operators</item>
+        <item>Expression</item>
+        <item>Type-Casting</item>
+        <item>Control Statements</item>
+        <item>Pointer</item>
+        <item>Function</item>
+        <item>Recursion</item>
+        <item>Array</item>
+        <item>Structure</item>
+        <item>Union</item>
+        <item>File Handling</item>
+    </string-array>
+
+    <string-array name="syntax">
+        <item>Basic Building Block</item>
+        <item>printf()</item>
+        <item>scanf()</item>
+        <item>if Statement</item>
+        <item>if-else Statement</item>
+        <item>Nested if-else Statement</item>
+        <item>Switch Statement</item>
+        <item>While Loop</item>
+        <item>Do-While Loop</item>
+        <item>For Loop</item>
+        <item>Nested For Loop</item>
+        <item>Break</item>
+        <item>Continue</item>
+    </string-array>
+
+
+    <string name="title_activity_introduction">Introduction</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="share_text">Share Credits Left : </string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="c_pattern_programs">C Pattern Programs</string>
+    <string name="quizzes">Quizzes</string>
+    <string name="study_stuff">Study Time</string>
+    <string name="report">Report</string>
+    <string name="feedback_query">Feedback/Query</string>
+    <string name="practice_time">Practice Time</string>
+    <string name="defination">Defination</string>
+    <string name="introduction">Introduction</string>
+    <string name="banner_id">ca-app-pub-5038792352708017/8888096427</string>
+    <string name="InterstitialAd_id">ca-app-pub-5038792352708017/2793461361</string>
+    <string name="VideoAd_id">ca-app-pub-5038792352708017/7183314271</string>
+    <string name="syntaxes">Syntaxes</string>
+    <string name="having_an_issue">Having an issue</string>
+    <string name="about">About Us !!</string>
+    <string name="share">Share this App !!</string>
+    <string name="rate_this_app">Rate this App !!</string>
+</resources>

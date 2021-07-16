@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "938206522115",
+    "firebase_url": "https://cprogramming-4ffaf.firebaseio.com",
+    "project_id": "cprogramming-4ffaf",
+    "storage_bucket": "cprogramming-4ffaf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:938206522115:android:56753d9f024920371e9736",
+        "android_client_info": {
+          "package_name": "com.vkdevlops.cprogramfree"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "938206522115-il705848orjvjujelnaj9t9dkmnhspvs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuGqr7GiaatwJYG7vaGOIllYomxauqJsw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "938206522115-il705848orjvjujelnaj9t9dkmnhspvs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

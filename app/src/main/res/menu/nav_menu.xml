@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item android:title="@string/study_stuff">
+            <menu>
+                <item
+                    android:id="@+id/study_menu"
+                    android:icon="@drawable/ic_baseline_menu_book_24"
+                    android:title="@string/introduction"
+                    android:iconTint="@color/tp"/>
+                <item
+                    android:id="@+id/study_defination"
+                    android:icon="@drawable/defination"
+                    android:title="@string/defination" />
+                <item
+                    android:id="@+id/study_syntax"
+                    android:icon="@drawable/ic_baseline_code_24"
+                    android:title="@string/syntaxes" />
+            </menu>
+        </item>
+        <item android:title="@string/practice_time">
+            <menu>
+                <item
+                    android:id="@+id/cprograms"
+                    android:title="@string/c_programs"
+                    android:icon="@drawable/ic_baseline_developer_mode_24"/>
+                <item
+                    android:id="@+id/quizzes"
+                    android:title="@string/quizzes"
+                    android:icon="@drawable/quizes"/>
+            </menu>
+        </item>
+    </group>
+
+    <item
+        android:id="@+id/about"
+        android:title="@string/about"
+        android:icon="@drawable/about"/>
+
+    <item
+        android:id="@+id/rate"
+        android:title="@string/rate_this_app"
+        android:icon="@drawable/rate"/>
+
+    <item
+        android:id="@+id/share"
+        android:title="@string/share"
+        android:icon="@drawable/share"/>
+
+    <item android:title="@string/having_an_issue">
+        <menu>
+            <item
+                android:id="@+id/feedback"
+                android:title="@string/feedback_query"
+                android:icon="@drawable/ic_baseline_feedback_24" />
+            <item
+                android:id="@+id/bug"
+                android:title="@string/report"
+                android:icon="@drawable/ic_baseline_bug_report_24"/>
+        </menu>
+    </item>
+</menu>
